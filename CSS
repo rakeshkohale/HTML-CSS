@@ -1,0 +1,17 @@
+?*iMAGE RENDERING rEPEAT-X 
+
+<!DOCTYPE HTML PUBLIC "-//W3//DTD HTML 4.01//EN" "http://www.w3,org/TR/html4/strict.dtd">
+<html><!-- Author: Rakesh Kohale
+            Modified On: 23-07-2015 -->
+  <head>   <!-- This Section will page with background image  -->
+  <title> background image </title>
+  <style>
+    body {
+    background-image: url("blue_green.png");
+    background-repeat: repeat-x;
+    }
+    </style>
+    </head>
+  <body>
+  </body>
+</html>
